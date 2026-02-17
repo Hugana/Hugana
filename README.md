@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently finishing my Master's in Computer Science.<br>I m looking for a Game Industry Job.<br>Currently making a mod for Cyberpunk 2077 that uses LLM's.<br>Love Video Games
+I'm currently finishing my Master's in Computer Science.<br>I m looking for a Game Industry Job.<br>
 
 
 ## 🌐 Socials:
